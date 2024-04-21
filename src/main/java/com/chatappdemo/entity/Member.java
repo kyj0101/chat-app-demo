@@ -1,13 +1,13 @@
 package com.chatappdemo.entity;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.Id;
+//import jakarta.persistence.Entity;
+//import jakarta.persistence.GeneratedValue;
+//import jakarta.persistence.Id;
 
-@Entity
+//@Entity
 public class Member {
-    @Id
-    @GeneratedValue
+  //  @Id
+  //  @GeneratedValue
     private long id;
 
     private String name;
